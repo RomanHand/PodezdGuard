@@ -1,0 +1,8 @@
+---
+app:
+  video_dir: 'videos'
+  show_video: ture
+  show_bounding_boxes: true
+
+model:
+  path: 'yolov8s.pt'
