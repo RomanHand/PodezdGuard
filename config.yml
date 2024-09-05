@@ -1,7 +1,7 @@
 ---
 app:
   video_dir: 'videos'
-  show_video: ture
+  show_video: false
   show_bounding_boxes: true
 
 model:
